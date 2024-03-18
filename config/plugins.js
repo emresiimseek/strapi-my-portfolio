@@ -7,6 +7,7 @@ module.exports = ({ env }) => ({
       apiToken: "NaxBCvopTTxBqX0QCOHlbq4o",
       appFilter: "strapi-my-portfolio",
       teamFilter: "team_DH9di7mmdt7kHIixxrIWiGBs",
+
       roles: ["strapi-super-admin", "strapi-editor", "strapi-author"],
     },
   },
